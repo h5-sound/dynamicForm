@@ -1,5 +1,6 @@
 type formType =
   | "text"
+  | "innerForm"
   | "textarea"
   | "email"
   | "password"
